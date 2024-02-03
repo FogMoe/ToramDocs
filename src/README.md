@@ -12,7 +12,7 @@ footer: Copyright © 2024 FOGMOE
 
 
 
-## GitHub Contributors
+## GitHub貢獻者
 <a href="https://github.com/scarletkc/ToramDocs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=scarletkc/ToramDocs" />
 </a>
