@@ -7,12 +7,12 @@ actions:
     link: /guide/
     type: primary
     
-footer: Copyright © 2024 FOGMOE
+footer: © 2024 FOGMOE
 ---
 
 
 
-## GitHub貢獻者
+## GitHub 貢獻者
 <a href="https://github.com/scarletkc/ToramDocs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=scarletkc/ToramDocs" />
 </a>

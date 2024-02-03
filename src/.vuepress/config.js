@@ -27,7 +27,16 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: '',
 
-    navbar: ['/', ],
+    navbar: [
+      {
+      text: '首頁',
+      link: '/',
+    }],
+    repo: 'https://github.com/scarletkc/ToramDocs',
+    contributors: true,
+    editLinkText: '在 GitHub 上編輯此頁',
+    lastUpdatedText: '最後更新',
+    contributorsText: '貢獻者',
   }),
 
   bundler: viteBundler(),

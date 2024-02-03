@@ -37,7 +37,15 @@ export const searchIndex = [
   },
   {
     "title": "ToramOnline遊戲資訊站",
-    "headers": [],
+    "headers": [
+      {
+        "level": 2,
+        "title": "GitHub貢獻者",
+        "slug": "github貢獻者",
+        "link": "#github貢獻者",
+        "children": []
+      }
+    ],
     "path": "/",
     "pathLocale": "/",
     "extraFields": []
