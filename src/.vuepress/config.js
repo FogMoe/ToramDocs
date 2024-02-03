@@ -18,7 +18,10 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'zh-TW', 
-    }
+    },
+    'https://translate.google.com.hk/?hl=zh-CN&sourceid=cnhp&sl=zh-TW&tl=zh-CN&op=websites': {
+      lang: 'zh-CN',
+    },
   },
   
   title: 'ToramDocs',
@@ -33,10 +36,21 @@ export default defineUserConfig({
       link: '/',
     }],
     repo: 'https://github.com/scarletkc/ToramDocs',
+    docsDir: 'src',
     contributors: true,
     editLinkText: '在 GitHub 上編輯此頁',
     lastUpdatedText: '最後更新',
     contributorsText: '貢獻者',
+    toggleColorMode: '切換顏色模式',
+    selectLanguageText: '選擇語言',
+    locales: {
+      '/': {
+        selectLanguageName: '正體中文',
+      },
+      'https://translate.google.com.hk/?hl=zh-CN&sourceid=cnhp&sl=zh-TW&tl=zh-CN&op=websites': {
+        selectLanguageName: '简体中文',
+      },
+    },
   }),
 
   bundler: viteBundler(),

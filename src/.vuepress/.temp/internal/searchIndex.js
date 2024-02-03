@@ -40,9 +40,9 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "GitHub貢獻者",
-        "slug": "github貢獻者",
-        "link": "#github貢獻者",
+        "title": "GitHub 貢獻者",
+        "slug": "github-貢獻者",
+        "link": "#github-貢獻者",
         "children": []
       }
     ],
