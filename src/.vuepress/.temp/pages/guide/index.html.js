@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-fffb8e28\",\"path\":\"/guide/\",\"title\":\"导航\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"怪物图鉴\",\"slug\":\"怪物图鉴\",\"link\":\"#怪物图鉴\",\"children\":[]},{\"level\":2,\"title\":\"料理地址\",\"slug\":\"料理地址\",\"link\":\"#料理地址\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"guide/README.md\"}")
+export const data = JSON.parse("{\"key\":\"v-fffb8e28\",\"path\":\"/guide/\",\"title\":\"導航\",\"lang\":\"zh-TW\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"怪物圖鑒\",\"slug\":\"怪物圖鑒\",\"link\":\"#怪物圖鑒\",\"children\":[]},{\"level\":2,\"title\":\"料理地址\",\"slug\":\"料理地址\",\"link\":\"#料理地址\",\"children\":[]}],\"git\":{\"updatedTime\":1706943294000,\"contributors\":[{\"name\":\"Kc\",\"email\":\"kc@fog.moe\",\"commits\":2}]},\"filePathRelative\":\"guide/README.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

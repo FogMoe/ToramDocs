@@ -1,8 +1,8 @@
-# 导航
+# 導航
 
-## [怪物图鉴](../docs/mobs)
+## [怪物圖鑒](../docs/mobs)
 
-[定点王](../docs/mobs#定点王)
+[定點王](../docs/mobs#定點王)
 
 [野王](../docs/mobs#野王)
 
@@ -10,7 +10,7 @@
 
 ## [料理地址](../docs/cuisine)
 
-[托兰异世录](../docs/cuisine#托兰异世录)
+[托蘭異世錄](../docs/cuisine#托蘭異世錄)
 
 [托拉姆物语](../docs/cuisine#托拉姆物语)
 

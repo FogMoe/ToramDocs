@@ -1,4 +1,4 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"zh-CN\",\"title\":\"ToramDocs\",\"description\":\"托兰中文资料站\",\"head\":[],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"ToramDocs\",\"description\":\"Toram Online 遊戲資訊站\",\"head\":[],\"locales\":{\"/\":{\"lang\":\"zh-TW\"}}}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

@@ -1,9 +1,9 @@
 ---
 home: true
-title: 托兰中文资料站
+title: ToramOnline遊戲資訊站
 heroImage: https://vuejs.press/images/hero.png
 actions:
-  - text: 开始
+  - text: 開始
     link: /guide/
     type: primary
     

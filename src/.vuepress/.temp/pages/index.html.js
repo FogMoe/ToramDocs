@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"托兰中文资料站\",\"lang\":\"zh-CN\",\"frontmatter\":{\"home\":true,\"title\":\"托兰中文资料站\",\"heroImage\":\"https://vuejs.press/images/hero.png\",\"actions\":[{\"text\":\"开始\",\"link\":\"/guide/\",\"type\":\"primary\"}],\"footer\":\"Copyright © 2024 FOGMOE\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"README.md\"}")
+export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"ToramOnline遊戲資訊站\",\"lang\":\"zh-TW\",\"frontmatter\":{\"home\":true,\"title\":\"ToramOnline遊戲資訊站\",\"heroImage\":\"https://vuejs.press/images/hero.png\",\"actions\":[{\"text\":\"開始\",\"link\":\"/guide/\",\"type\":\"primary\"}],\"footer\":\"Copyright © 2024 FOGMOE\"},\"headers\":[],\"git\":{\"updatedTime\":1706942067000,\"contributors\":[{\"name\":\"Kc\",\"email\":\"kc@fog.moe\",\"commits\":1}]},\"filePathRelative\":\"README.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

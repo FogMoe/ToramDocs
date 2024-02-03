@@ -1,17 +1,26 @@
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
+import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
+  plugins: [
+    searchPlugin({
+      locales: {
+        '/': {
+          placeholder: '搜索',
+        },
+      },
+    }),
+  ],
   locales: {
-    "/cn/": {
-      lang: "zh-CN",
-    },
-    "/tw/": {
-      lang: "zh-TW",
-    },
+    '/': {
+      lang: 'zh-TW', 
+    }
+  },
+  
   title: 'ToramDocs',
-  description: '托兰中文资料站',
+  description: 'Toram Online 遊戲資訊站',
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
