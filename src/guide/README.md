@@ -10,8 +10,8 @@
 
 ## [料理地址](../docs/cuisine)
 
-[托兰异世录（世界）](../docs/cuisine#托兰异世录)
+[托兰异世录](../docs/cuisine#托兰异世录)
 
-[托拉姆物语（中国）](../docs/cuisine#托拉姆物语)
+[托拉姆物语](../docs/cuisine#托拉姆物语)
 
 
