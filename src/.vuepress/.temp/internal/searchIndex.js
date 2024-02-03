@@ -31,25 +31,25 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/get-started.html",
+    "path": "/get-started",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "托兰中文资料站",
+    "title": "ToramOnline遊戲資訊站",
     "headers": [],
     "path": "/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "导航",
+    "title": "導航",
     "headers": [
       {
         "level": 2,
-        "title": "怪物图鉴",
-        "slug": "怪物图鉴",
-        "link": "#怪物图鉴",
+        "title": "怪物圖鑒",
+        "slug": "怪物圖鑒",
+        "link": "#怪物圖鑒",
         "children": []
       },
       {
@@ -69,9 +69,9 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "托兰异世录",
-        "slug": "托兰异世录",
-        "link": "#托兰异世录",
+        "title": "托蘭異世錄",
+        "slug": "托蘭異世錄",
+        "link": "#托蘭異世錄",
         "children": [
           {
             "level": 3,
@@ -89,9 +89,9 @@ export const searchIndex = [
           },
           {
             "level": 3,
-            "title": "暴击率",
-            "slug": "暴击率",
-            "link": "#暴击率",
+            "title": "暴擊率",
+            "slug": "暴擊率",
+            "link": "#暴擊率",
             "children": []
           },
           {
@@ -103,9 +103,9 @@ export const searchIndex = [
           },
           {
             "level": 3,
-            "title": "减仇",
-            "slug": "减仇",
-            "link": "#减仇",
+            "title": "減仇",
+            "slug": "減仇",
+            "link": "#減仇",
             "children": []
           },
           {
@@ -154,9 +154,9 @@ export const searchIndex = [
       },
       {
         "level": 2,
-        "title": "托拉姆物语",
-        "slug": "托拉姆物语",
-        "link": "#托拉姆物语",
+        "title": "托拉姆物語",
+        "slug": "托拉姆物語",
+        "link": "#托拉姆物語",
         "children": []
       }
     ],
@@ -165,13 +165,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "怪物图鉴",
+    "title": "怪物圖鑒",
     "headers": [
       {
         "level": 2,
-        "title": "定点王",
-        "slug": "定点王",
-        "link": "#定点王",
+        "title": "定點王",
+        "slug": "定點王",
+        "link": "#定點王",
         "children": []
       },
       {

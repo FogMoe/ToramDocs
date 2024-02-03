@@ -1,5 +1,5 @@
 export const pagesData = {
-  // path: /get-started.html
+  // path: /get-started
   "v-6c0089f0": () => import(/* webpackChunkName: "v-6c0089f0" */"D:/ToramDocs/src/.vuepress/.temp/pages/get-started.html.js").then(({ data }) => data),
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/ToramDocs/src/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),

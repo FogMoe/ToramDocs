@@ -22,7 +22,7 @@
 <h3 id="武器atk" tabindex="-1"><a class="header-anchor" href="#武器atk"><span>武器ATK</span></a></h3>
 <h3 id="物理抗性" tabindex="-1"><a class="header-anchor" href="#物理抗性"><span>物理抗性</span></a></h3>
 <h3 id="魔法抗性" tabindex="-1"><a class="header-anchor" href="#魔法抗性"><span>魔法抗性</span></a></h3>
-<h2 id="托拉姆物语" tabindex="-1"><a class="header-anchor" href="#托拉姆物语"><span>托拉姆物语</span></a></h2>
+<h2 id="托拉姆物語" tabindex="-1"><a class="header-anchor" href="#托拉姆物語"><span>托拉姆物語</span></a></h2>
 </div></template>
 
 

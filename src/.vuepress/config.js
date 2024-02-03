@@ -2,6 +2,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { searchPlugin } from '@vuepress/plugin-search'
+import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension'
 
 export default defineUserConfig({
   plugins: [
@@ -12,6 +13,7 @@ export default defineUserConfig({
         },
       },
     }),
+    removeHtmlExtensionPlugin(),
   ],
   locales: {
     '/': {
@@ -23,7 +25,7 @@ export default defineUserConfig({
   description: 'Toram Online 遊戲資訊站',
 
   theme: defaultTheme({
-    logo: 'https://vuejs.press/images/hero.png',
+    logo: '',
 
     navbar: ['/', ],
   }),

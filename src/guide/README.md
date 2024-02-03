@@ -12,6 +12,6 @@
 
 [托蘭異世錄](../docs/cuisine#托蘭異世錄)
 
-[托拉姆物语](../docs/cuisine#托拉姆物语)
+[托拉姆物語](../docs/cuisine#托拉姆物語)
 
 
