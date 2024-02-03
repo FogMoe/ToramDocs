@@ -3,8 +3,13 @@ import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
-  lang: 'zh-CN',
-
+  locales: {
+    "/cn/": {
+      lang: "zh-CN",
+    },
+    "/tw/": {
+      lang: "zh-TW",
+    },
   title: 'ToramDocs',
   description: '托兰中文资料站',
 
