@@ -4,4 +4,4 @@
 
 ### 「275級版本」
 
-#### [【275級版本】遠程物理系魔劍士](../docs/strategy/275-magicblade)
+#### [【275級版本】遠程物理系魔劍士](../strategy/275-magicblade)
