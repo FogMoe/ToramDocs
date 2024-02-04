@@ -4,9 +4,14 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { searchPlugin } from '@vuepress/plugin-search'
 import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension'
 import { commentPlugin } from "vuepress-plugin-comment2";
+import { sitemapPlugin } from '@vuepress/plugin-sitemap'
 
 export default defineUserConfig({
   plugins: [
+    sitemapPlugin({
+      // 选项
+      hostname: 'toram.fog.moe',
+    }),
     searchPlugin({
       locales: {
         '/': {
