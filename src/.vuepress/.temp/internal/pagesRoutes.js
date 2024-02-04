@@ -9,4 +9,5 @@ export const pagesRoutes = [
   ["v-7b482f81","/docs/strategy/",{"title":"職業攻略"},["/docs/strategy/README.md"]],
   ["v-274ba1a6","/docs/strategy/275-magicblade/",{"title":"【275級版本】遠程物理系魔劍士"},["/docs/strategy/275-magicblade/README.md"]],
   ["v-3706649a","/404.html",{"title":""},[]],
+  ["v-74bc627b","/about/",{"title":"關於"},["/about/README.md"]],
 ]
