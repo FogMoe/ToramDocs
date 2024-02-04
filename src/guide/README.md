@@ -1,3 +1,6 @@
+---
+comment: false
+---
 # 導航
 
 ## [怪物圖鑒](../docs/mobs)

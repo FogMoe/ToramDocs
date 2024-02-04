@@ -19,10 +19,7 @@ export default defineUserConfig({
       provider: "Giscus", // Artalk | Giscus | Waline | Twikoo
 
       // 在这里放置其他选项
-      repo: "scarletkc/ToramDocs",
-      repoId:"R_kgDOLNRfNw",
-      category:"Announcements",
-      categoryId:"DIC_kwDOLNRfN84Cc8TE",
+      
       // ...
     }),
   ],
