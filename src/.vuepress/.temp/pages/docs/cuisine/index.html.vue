@@ -64,7 +64,7 @@
 <li>1140002</li>
 <li>1011340</li>
 </ul>
-<h3 id="「攻擊防禦類」" tabindex="-1"><a class="header-anchor" href="#「攻擊防禦類」"><span>「攻擊防禦類」</span></a></h3>
+<h3 id="「攻防類」" tabindex="-1"><a class="header-anchor" href="#「攻防類」"><span>「攻防類」</span></a></h3>
 <h4 id="atk" tabindex="-1"><a class="header-anchor" href="#atk"><span>ATK</span></a></h4>
 <p>暫無收錄</p>
 <h4 id="matk" tabindex="-1"><a class="header-anchor" href="#matk"><span>MATK</span></a></h4>
@@ -91,8 +91,39 @@
 <h4 id="魔法防禦" tabindex="-1"><a class="header-anchor" href="#魔法防禦"><span>魔法防禦</span></a></h4>
 <p>暫無收錄</p>
 <h3 id="「能力類」" tabindex="-1"><a class="header-anchor" href="#「能力類」"><span>「能力類」</span></a></h3>
-<p>暫無收錄</p>
-<h3 id="「對屬抗屬類」" tabindex="-1"><a class="header-anchor" href="#「對屬抗屬類」"><span>「對屬抗屬類」</span></a></h3>
+<h4 id="str" tabindex="-1"><a class="header-anchor" href="#str"><span>STR</span></a></h4>
+<ul>
+<li>4016699</li>
+<li>1011069</li>
+<li>1110033</li>
+<li>1150001</li>
+<li>4250000</li>
+</ul>
+<h4 id="int" tabindex="-1"><a class="header-anchor" href="#int"><span>INT</span></a></h4>
+<ul>
+<li>1032222</li>
+<li>1010498</li>
+<li>2020707</li>
+<li>6010701</li>
+</ul>
+<h4 id="dex" tabindex="-1"><a class="header-anchor" href="#dex"><span>DEX</span></a></h4>
+<ul>
+<li>1160000</li>
+<li>1040888</li>
+<li>1010058</li>
+<li>1010106</li>
+</ul>
+<h4 id="agi" tabindex="-1"><a class="header-anchor" href="#agi"><span>AGI</span></a></h4>
+<ul>
+<li>1220777</li>
+<li>7162029</li>
+<li>4262222</li>
+</ul>
+<h4 id="vit" tabindex="-1"><a class="header-anchor" href="#vit"><span>VIT</span></a></h4>
+<ul>
+<li>1181140</li>
+</ul>
+<h3 id="「對抗屬類」" tabindex="-1"><a class="header-anchor" href="#「對抗屬類」"><span>「對抗屬類」</span></a></h3>
 <p>暫無收錄</p>
 <h3 id="「其他類」" tabindex="-1"><a class="header-anchor" href="#「其他類」"><span>「其他類」</span></a></h3>
 <p>暫無收錄</p>
@@ -162,7 +193,7 @@
 <li>6010004</li>
 <li>1020016</li>
 </ul>
-<h3 id="「攻擊防禦類」-1" tabindex="-1"><a class="header-anchor" href="#「攻擊防禦類」-1"><span>「攻擊防禦類」</span></a></h3>
+<h3 id="「攻防類」-1" tabindex="-1"><a class="header-anchor" href="#「攻防類」-1"><span>「攻防類」</span></a></h3>
 <h4 id="atk-1" tabindex="-1"><a class="header-anchor" href="#atk-1"><span>ATK</span></a></h4>
 <p>暫無收錄</p>
 <h4 id="matk-1" tabindex="-1"><a class="header-anchor" href="#matk-1"><span>MATK</span></a></h4>
@@ -200,7 +231,29 @@
 <li>2010151</li>
 <li>4266666</li>
 </ul>
-<h3 id="「對屬抗屬類」-1" tabindex="-1"><a class="header-anchor" href="#「對屬抗屬類」-1"><span>「對屬抗屬類」</span></a></h3>
+<h4 id="智力" tabindex="-1"><a class="header-anchor" href="#智力"><span>智力</span></a></h4>
+<ul>
+<li>2011111</li>
+<li>1010164</li>
+</ul>
+<h4 id="敏捷" tabindex="-1"><a class="header-anchor" href="#敏捷"><span>敏捷</span></a></h4>
+<ul>
+<li>1010001</li>
+<li>1040001</li>
+</ul>
+<h4 id="灵巧" tabindex="-1"><a class="header-anchor" href="#灵巧"><span>灵巧</span></a></h4>
+<ul>
+<li>3015277</li>
+<li>1010162</li>
+<li>1010616</li>
+<li>3040301</li>
+</ul>
+<h4 id="耐力" tabindex="-1"><a class="header-anchor" href="#耐力"><span>耐力</span></a></h4>
+<ul>
+<li>1010052</li>
+<li>1019494</li>
+</ul>
+<h3 id="「對抗屬類」-1" tabindex="-1"><a class="header-anchor" href="#「對抗屬類」-1"><span>「對抗屬類」</span></a></h3>
 <p>暫無收錄</p>
 <h3 id="「其他類」-1" tabindex="-1"><a class="header-anchor" href="#「其他類」-1"><span>「其他類」</span></a></h3>
 <p>暫無收錄</p>

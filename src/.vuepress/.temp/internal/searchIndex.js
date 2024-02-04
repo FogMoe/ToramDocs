@@ -83,79 +83,44 @@ export const searchIndex = [
         "children": [
           {
             "level": 3,
-            "title": "HP上限",
-            "slug": "hp上限",
-            "link": "#hp上限",
+            "title": "「基礎類」",
+            "slug": "「基礎類」",
+            "link": "#「基礎類」",
             "children": []
           },
           {
             "level": 3,
-            "title": "MP上限",
-            "slug": "mp上限",
-            "link": "#mp上限",
+            "title": "「仇恨類」",
+            "slug": "「仇恨類」",
+            "link": "#「仇恨類」",
             "children": []
           },
           {
             "level": 3,
-            "title": "暴擊率",
-            "slug": "暴擊率",
-            "link": "#暴擊率",
+            "title": "「攻防類」",
+            "slug": "「攻防類」",
+            "link": "#「攻防類」",
             "children": []
           },
           {
             "level": 3,
-            "title": "攻回",
-            "slug": "攻回",
-            "link": "#攻回",
+            "title": "「能力類」",
+            "slug": "「能力類」",
+            "link": "#「能力類」",
             "children": []
           },
           {
             "level": 3,
-            "title": "減仇",
-            "slug": "減仇",
-            "link": "#減仇",
+            "title": "「對抗屬類」",
+            "slug": "「對抗屬類」",
+            "link": "#「對抗屬類」",
             "children": []
           },
           {
             "level": 3,
-            "title": "增仇",
-            "slug": "增仇",
-            "link": "#增仇",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "ATK",
-            "slug": "atk",
-            "link": "#atk",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "MATK",
-            "slug": "matk",
-            "link": "#matk",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "武器ATK",
-            "slug": "武器atk",
-            "link": "#武器atk",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "物理抗性",
-            "slug": "物理抗性",
-            "link": "#物理抗性",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "魔法抗性",
-            "slug": "魔法抗性",
-            "link": "#魔法抗性",
+            "title": "「其他類」",
+            "slug": "「其他類」",
+            "link": "#「其他類」",
             "children": []
           }
         ]
@@ -165,7 +130,50 @@ export const searchIndex = [
         "title": "托拉姆物語",
         "slug": "托拉姆物語",
         "link": "#托拉姆物語",
-        "children": []
+        "children": [
+          {
+            "level": 3,
+            "title": "「基礎類」",
+            "slug": "「基礎類」-1",
+            "link": "#「基礎類」-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "「仇恨類」",
+            "slug": "「仇恨類」-1",
+            "link": "#「仇恨類」-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "「攻防類」",
+            "slug": "「攻防類」-1",
+            "link": "#「攻防類」-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "「能力類」",
+            "slug": "「能力類」-1",
+            "link": "#「能力類」-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "「對抗屬類」",
+            "slug": "「對抗屬類」-1",
+            "link": "#「對抗屬類」-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "「其他類」",
+            "slug": "「其他類」-1",
+            "link": "#「其他類」-1",
+            "children": []
+          }
+        ]
       }
     ],
     "path": "/docs/cuisine/",
@@ -198,6 +206,28 @@ export const searchIndex = [
       }
     ],
     "path": "/docs/mobs/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "職業攻略",
+    "headers": [
+      {
+        "level": 2,
+        "title": "【275級版本】遠程物理系魔劍士",
+        "slug": "【275級版本】遠程物理系魔劍士",
+        "link": "#【275級版本】遠程物理系魔劍士",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "",
+        "slug": "",
+        "link": "#",
+        "children": []
+      }
+    ],
+    "path": "/docs/strategy/",
     "pathLocale": "/",
     "extraFields": []
   },
