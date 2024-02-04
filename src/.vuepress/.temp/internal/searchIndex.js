@@ -262,29 +262,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "職業攻略",
-    "headers": [
-      {
-        "level": 2,
-        "title": "目錄",
-        "slug": "目錄",
-        "link": "#目錄",
-        "children": [
-          {
-            "level": 3,
-            "title": "「275級版本」",
-            "slug": "「275級版本」",
-            "link": "#「275級版本」",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/docs/strategy/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "怪物圖鑒",
     "headers": [
       {
@@ -310,6 +287,29 @@ export const searchIndex = [
       }
     ],
     "path": "/docs/mobs/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "職業攻略",
+    "headers": [
+      {
+        "level": 2,
+        "title": "目錄",
+        "slug": "目錄",
+        "link": "#目錄",
+        "children": [
+          {
+            "level": 3,
+            "title": "「275級版本」",
+            "slug": "「275級版本」",
+            "link": "#「275級版本」",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/docs/strategy/",
     "pathLocale": "/",
     "extraFields": []
   },

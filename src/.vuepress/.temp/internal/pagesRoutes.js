@@ -9,4 +9,5 @@ export const pagesRoutes = [
   ["v-674957fe","/docs/mobs/",{"title":"怪物圖鑒"},["/docs/mobs/README.md"]],
   ["v-274ba1a6","/docs/strategy/275-magicblade/",{"title":"【275級版本】遠程物理系魔劍士"},["/docs/strategy/275-magicblade/README.md"]],
   ["v-3706649a","/404.html",{"title":""},[]],
+  ["v-4cea429c","/baidu_verify_codeva-uHgdY4nqIv",{"title":""},["/baidu_verify_codeva-uHgdY4nqIv.html","/baidu_verify_codeva-uHgdY4nqIv.md"]],
 ]
