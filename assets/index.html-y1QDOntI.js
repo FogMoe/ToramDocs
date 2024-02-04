@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ac386806","path":"/docs/about/","title":"關於","lang":"zh-TW","frontmatter":{"comment":false},"headers":[{"level":2,"title":"使用條款及免責聲明","slug":"使用條款及免責聲明","link":"#使用條款及免責聲明","children":[]}],"git":{"updatedTime":1707085228000,"contributors":[{"name":"Kc","email":"kc@fog.moe","commits":1}]},"filePathRelative":"docs/about/README.md"}');export{e as data};
