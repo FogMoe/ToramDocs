@@ -5,6 +5,10 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/ToramDocs/src/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /guide/
   "v-fffb8e28": () => import(/* webpackChunkName: "v-fffb8e28" */"D:/ToramDocs/src/.vuepress/.temp/pages/guide/index.html.js").then(({ data }) => data),
+  // path: /docs/about/
+  "v-ac386806": () => import(/* webpackChunkName: "v-ac386806" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/about/index.html.js").then(({ data }) => data),
+  // path: /docs/comments/
+  "v-3ac74520": () => import(/* webpackChunkName: "v-3ac74520" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/comments/index.html.js").then(({ data }) => data),
   // path: /docs/cuisine/
   "v-729c3666": () => import(/* webpackChunkName: "v-729c3666" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/cuisine/index.html.js").then(({ data }) => data),
   // path: /docs/mobs/

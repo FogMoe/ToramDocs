@@ -42,7 +42,9 @@ export default defineUserConfig({
       {
       text: '首頁',
       link: '/',
-    }],
+    },
+    { text: '關於', link: '/about/' },
+  ],
     repo: 'https://github.com/scarletkc/ToramDocs',
     docsDir: 'src',
     contributors: true,

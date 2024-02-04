@@ -8,6 +8,7 @@
 <h3 id="托拉姆物語" tabindex="-1"><a class="header-anchor" href="#托拉姆物語"><span><a href="../docs/cuisine#%E6%89%98%E6%8B%89%E5%A7%86%E7%89%A9%E8%AA%9E">托拉姆物語</a></span></a></h3>
 <h2 id="職業攻略" tabindex="-1"><a class="header-anchor" href="#職業攻略"><span><a href="../docs/strategy">職業攻略</a></span></a></h2>
 <h3 id="目錄" tabindex="-1"><a class="header-anchor" href="#目錄"><span><a href="../docs/strategy#%E7%9B%AE%E9%8C%84">目錄</a></span></a></h3>
+<h2 id="留言板" tabindex="-1"><a class="header-anchor" href="#留言板"><span><a href="../docs/comments">留言板</a></span></a></h2>
 </div></template>
 
 

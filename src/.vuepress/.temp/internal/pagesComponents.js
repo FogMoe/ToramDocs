@@ -7,6 +7,10 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"D:/ToramDocs/src/.vuepress/.temp/pages/index.html.vue")),
   // path: /guide/
   "v-fffb8e28": defineAsyncComponent(() => import(/* webpackChunkName: "v-fffb8e28" */"D:/ToramDocs/src/.vuepress/.temp/pages/guide/index.html.vue")),
+  // path: /docs/about/
+  "v-ac386806": defineAsyncComponent(() => import(/* webpackChunkName: "v-ac386806" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/about/index.html.vue")),
+  // path: /docs/comments/
+  "v-3ac74520": defineAsyncComponent(() => import(/* webpackChunkName: "v-3ac74520" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/comments/index.html.vue")),
   // path: /docs/cuisine/
   "v-729c3666": defineAsyncComponent(() => import(/* webpackChunkName: "v-729c3666" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/cuisine/index.html.vue")),
   // path: /docs/mobs/

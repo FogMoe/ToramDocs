@@ -118,9 +118,38 @@ export const searchIndex = [
             "children": []
           }
         ]
+      },
+      {
+        "level": 2,
+        "title": "留言板",
+        "slug": "留言板",
+        "link": "#留言板",
+        "children": []
       }
     ],
     "path": "/guide/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "關於",
+    "headers": [
+      {
+        "level": 2,
+        "title": "使用條款及免責聲明",
+        "slug": "使用條款及免責聲明",
+        "link": "#使用條款及免責聲明",
+        "children": []
+      }
+    ],
+    "path": "/docs/about/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "留言板",
+    "headers": [],
+    "path": "/docs/comments/",
     "pathLocale": "/",
     "extraFields": []
   },
