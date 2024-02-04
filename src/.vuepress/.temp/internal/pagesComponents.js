@@ -21,6 +21,4 @@ export const pagesComponents = {
   "v-274ba1a6": defineAsyncComponent(() => import(/* webpackChunkName: "v-274ba1a6" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/strategy/275-magicblade/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"D:/ToramDocs/src/.vuepress/.temp/pages/404.html.vue")),
-  // path: /baidu_verify_codeva-uHgdY4nqIv
-  "v-4cea429c": defineAsyncComponent(() => import(/* webpackChunkName: "v-4cea429c" */"D:/ToramDocs/src/.vuepress/.temp/pages/baidu_verify_codeva-uHgdY4nqIv.html.vue")),
 }

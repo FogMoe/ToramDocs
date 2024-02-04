@@ -19,6 +19,4 @@ export const pagesData = {
   "v-274ba1a6": () => import(/* webpackChunkName: "v-274ba1a6" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/strategy/275-magicblade/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"D:/ToramDocs/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
-  // path: /baidu_verify_codeva-uHgdY4nqIv
-  "v-4cea429c": () => import(/* webpackChunkName: "v-4cea429c" */"D:/ToramDocs/src/.vuepress/.temp/pages/baidu_verify_codeva-uHgdY4nqIv.html.js").then(({ data }) => data),
 }
