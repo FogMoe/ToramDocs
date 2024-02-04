@@ -73,6 +73,10 @@
 <li>聯合巨劍：主要輸出手段，我們用的是通常模式(物理)。若處於魔劍強化狀態將消耗其30秒持續時間使此技能迅速發動；若扣除時間後仍處於魔劍強化狀態，並同時按下前方向鍵，則解除魔劍強化狀態的同時，繼續發動再聯合巨劍。無論魔劍強化剩餘幾秒，都能發動加速效果，但若想發動再聯合巨劍，則必須有至少31秒魔劍強化。聯合巨劍12m；再聯合巨劍8m，且必定暴擊~</li>
 <li>魔法膜：點10或不點。魔導具必須精煉到S，受到的物理/魔法傷害減輕50%，受到超出自身最大HP的傷害時有100%機率迴避死亡、HP剩餘1，並使魔法膜的效果中斷120秒，期間內無法再次發動免死效果。</li>
 </ul>
+<p><img src="@source/docs/strategy/275-magicblade/防衛技能.png" alt="防衛技能"></p>
+<ul>
+<li>幻象迷蹤：學習後，可在蓄力或詠唱期間進行閃躲。此效果無法連續發動，須等待19秒，才可再次使用。</li>
+</ul>
 <p><img src="@source/docs/strategy/275-magicblade/步步為營.png" alt="步步為營"><img src="@source/docs/strategy/275-magicblade/刺客殺招.png" alt="刺客殺招"><img src="@source/docs/strategy/275-magicblade/優雅架勢.png" alt="優雅架勢"><img src="@source/docs/strategy/275-magicblade/音速擠壓.png" alt="音速擠壓">
 <img src="@source/docs/strategy/275-magicblade/急速後閃.png" alt="急速後閃"><img src="@source/docs/strategy/275-magicblade/即興演出.png" alt="即興演出"><img src="@source/docs/strategy/275-magicblade/使魔.png" alt="使魔"></p>
 <ul>
@@ -85,7 +89,7 @@
 </ul>
 <h3 id="推薦星石" tabindex="-1"><a class="header-anchor" href="#推薦星石"><span>推薦星石</span></a></h3>
 <p><strong>根據財力自行選擇</strong></p>
-<p><em>劍術要領|劍速提升|戰吼|遠程狙擊|魔力充填|法術/長槍|神速軌跡|破風之勢|武士道|勇氣泉源|提升攻擊力|強打|裝死|MP突破|步步為營</em></p>
+<p><em>劍術要領|劍速提升|戰吼|遠程狙擊|魔力充填|法術/長槍|神速軌跡|破風之勢|武士道|勇氣泉源|提升攻擊力|強打|裝死|MP突破|步步為營|幻象迷蹤</em></p>
 <h3 id="雷吉斯托環" tabindex="-1"><a class="header-anchor" href="#雷吉斯托環"><span>雷吉斯托環</span></a></h3>
 <ul>
 <li><strong>燃燒的鬥志</strong></li>
