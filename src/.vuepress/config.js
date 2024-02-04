@@ -3,11 +3,16 @@ import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { searchPlugin } from '@vuepress/plugin-search'
 import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension'
-import { commentPlugin } from "vuepress-plugin-comment2";
+import { commentPlugin } from "vuepress-plugin-comment2"
 import { sitemapPlugin } from '@vuepress/plugin-sitemap'
+import { copyrightPlugin } from '@vuepress/plugin-copyright'
 
 export default defineUserConfig({
   plugins: [
+    copyrightPlugin({
+      // options
+      global: true,
+    }),
     sitemapPlugin({
       // 选项
       hostname: 'toram.fog.moe',

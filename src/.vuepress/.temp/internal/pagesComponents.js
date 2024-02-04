@@ -13,10 +13,10 @@ export const pagesComponents = {
   "v-3ac74520": defineAsyncComponent(() => import(/* webpackChunkName: "v-3ac74520" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/comments/index.html.vue")),
   // path: /docs/cuisine/
   "v-729c3666": defineAsyncComponent(() => import(/* webpackChunkName: "v-729c3666" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/cuisine/index.html.vue")),
-  // path: /docs/strategy/
-  "v-7b482f81": defineAsyncComponent(() => import(/* webpackChunkName: "v-7b482f81" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/strategy/index.html.vue")),
   // path: /docs/mobs/
   "v-674957fe": defineAsyncComponent(() => import(/* webpackChunkName: "v-674957fe" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/mobs/index.html.vue")),
+  // path: /docs/strategy/
+  "v-7b482f81": defineAsyncComponent(() => import(/* webpackChunkName: "v-7b482f81" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/strategy/index.html.vue")),
   // path: /docs/strategy/275-magicblade/
   "v-274ba1a6": defineAsyncComponent(() => import(/* webpackChunkName: "v-274ba1a6" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/strategy/275-magicblade/index.html.vue")),
   // path: /404.html

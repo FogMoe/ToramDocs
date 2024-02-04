@@ -13,6 +13,7 @@
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.2",
     "@vuepress/client": "^2.0.0-rc.2",
+    "@vuepress/plugin-copyright": "^2.0.0-rc.9",
     "@vuepress/plugin-search": "^2.0.0-rc.8",
     "@vuepress/plugin-sitemap": "^2.0.0-rc.9",
     "@vuepress/theme-default": "^2.0.0-rc.2",

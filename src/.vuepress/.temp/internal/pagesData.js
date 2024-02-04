@@ -11,10 +11,10 @@ export const pagesData = {
   "v-3ac74520": () => import(/* webpackChunkName: "v-3ac74520" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/comments/index.html.js").then(({ data }) => data),
   // path: /docs/cuisine/
   "v-729c3666": () => import(/* webpackChunkName: "v-729c3666" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/cuisine/index.html.js").then(({ data }) => data),
-  // path: /docs/strategy/
-  "v-7b482f81": () => import(/* webpackChunkName: "v-7b482f81" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/strategy/index.html.js").then(({ data }) => data),
   // path: /docs/mobs/
   "v-674957fe": () => import(/* webpackChunkName: "v-674957fe" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/mobs/index.html.js").then(({ data }) => data),
+  // path: /docs/strategy/
+  "v-7b482f81": () => import(/* webpackChunkName: "v-7b482f81" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/strategy/index.html.js").then(({ data }) => data),
   // path: /docs/strategy/275-magicblade/
   "v-274ba1a6": () => import(/* webpackChunkName: "v-274ba1a6" */"D:/ToramDocs/src/.vuepress/.temp/pages/docs/strategy/275-magicblade/index.html.js").then(({ data }) => data),
   // path: /404.html

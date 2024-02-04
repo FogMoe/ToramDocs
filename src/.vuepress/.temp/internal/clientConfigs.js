@@ -6,10 +6,11 @@ import clientConfig4 from 'D:/ToramDocs/node_modules/@vuepress/plugin-medium-zoo
 import clientConfig5 from 'D:/ToramDocs/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
 import clientConfig6 from 'D:/ToramDocs/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
 import clientConfig7 from 'D:/ToramDocs/node_modules/@vuepress/theme-default/lib/client/config.js'
-import clientConfig8 from 'D:/ToramDocs/node_modules/@vuepress/plugin-search/lib/client/config.js'
-import clientConfig9 from 'D:/ToramDocs/src/.vuepress/.temp/sass-palette/load-hope.js'
-import clientConfig10 from 'D:/ToramDocs/node_modules/vuepress-plugin-comment2/lib/client/config.js'
-import clientConfig11 from 'D:/ToramDocs/src/.vuepress/client.ts'
+import clientConfig8 from 'D:/ToramDocs/node_modules/@vuepress/plugin-copyright/lib/client/config.js'
+import clientConfig9 from 'D:/ToramDocs/node_modules/@vuepress/plugin-search/lib/client/config.js'
+import clientConfig10 from 'D:/ToramDocs/src/.vuepress/.temp/sass-palette/load-hope.js'
+import clientConfig11 from 'D:/ToramDocs/node_modules/vuepress-plugin-comment2/lib/client/config.js'
+import clientConfig12 from 'D:/ToramDocs/src/.vuepress/client.ts'
 
 export const clientConfigs = [
   clientConfig0,
@@ -24,4 +25,5 @@ export const clientConfigs = [
   clientConfig9,
   clientConfig10,
   clientConfig11,
+  clientConfig12,
 ]
