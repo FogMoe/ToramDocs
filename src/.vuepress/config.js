@@ -3,6 +3,7 @@ import { defineUserConfig } from 'vuepress/cli'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { searchPlugin } from '@vuepress/plugin-search'
 import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension'
+import { commentPlugin } from "vuepress-plugin-comment2";
 
 export default defineUserConfig({
   plugins: [
@@ -14,6 +15,16 @@ export default defineUserConfig({
       },
     }),
     removeHtmlExtensionPlugin(),
+    commentPlugin({
+      provider: "Giscus", // Artalk | Giscus | Waline | Twikoo
+
+      // 在这里放置其他选项
+      repo: "scarletkc/ToramDocs",
+      repoId:"R_kgDOLNRfNw",
+      category:"Announcements",
+      categoryId:"DIC_kwDOLNRfN84Cc8TE",
+      // ...
+    }),
   ],
   locales: {
     '/': {
