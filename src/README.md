@@ -3,7 +3,7 @@ home: true
 title: ToramOnline遊戲資訊站
 heroImage: 
 actions:
-  - text: 開始
+  - text: 導航
     link: /guide/
     type: primary
     
