@@ -1,1 +1,0 @@
-import{_ as n,o as t,c as a,a as e}from"./app-fKA2hN4J.js";const c={},s=e("h1",{id:"留言板",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#留言板"},[e("span",null,"留言板")])],-1),o=[s];function _(r,d){return t(),a("div",null,o)}const i=n(c,[["render",_],["__file","index.html.vue"]]);export{i as default};
