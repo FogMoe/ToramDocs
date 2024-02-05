@@ -156,6 +156,8 @@
 <p><em><strong>愛德華茲|席卡諾加米</strong>|多米納雷多爾|塔圖羅基特|圖雷茲|黏液諾瓦II|茄龍歐瓦比昂</em></p>
 <h4 id="通用鍛晶" tabindex="-1"><a class="header-anchor" href="#通用鍛晶"><span>通用鍛晶</span></a></h4>
 <p><em>變異幽靈牛|黑影|佛拉布喇</em></p>
+<h3 id="造型裝備" tabindex="-1"><a class="header-anchor" href="#造型裝備"><span>造型裝備</span></a></h3>
+<p>物理貫穿，ATK%，攻擊MP回復等有利屬性詞條。</p>
 <h2 id="輸出方法與連擊設置" tabindex="-1"><a class="header-anchor" href="#輸出方法與連擊設置"><span>輸出方法與連擊設置</span></a></h2>
 <h3 id="推薦連擊" tabindex="-1"><a class="header-anchor" href="#推薦連擊"><span>推薦連擊</span></a></h3>
 <p><strong>開局疊附魔之力層數：</strong> 步步為營/即興演出 &gt; 附魔爆發（心眼）</p>
