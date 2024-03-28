@@ -55,7 +55,7 @@ export default defineUserConfig({
     },
     { text: '關於', link: '/about/' },
   ],
-    repo: 'https://github.com/scarletkc/ToramDocs',
+    repo: 'https://github.com/FogMoe/ToramDocs',
     docsDir: 'src',
     contributors: true,
     editLinkText: '在 GitHub 上編輯此頁',
